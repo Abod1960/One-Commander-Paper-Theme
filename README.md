@@ -58,7 +58,7 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 ## 🌟 Show your support
 
 Give a ⭐️ if you like this project!<br>
-Also you can support me buying this on [gumroad](https://gumroad.com/l/NVitO)
+Also you can support me buying this on [gumroad](https://gum.co/irTbV)
 
 ## 📝 Note
 
