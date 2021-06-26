@@ -68,6 +68,6 @@ you can edit with your own preferences
 ## 📩 License
 
 Copyright © 2021 [Abod1960](https://github.com/Abod1960)<br />
-This project is licensed under the [MIT](https://github.com/Abod1960/One-Commander-Dev-Theme/blob/main/LICENSE) license.
+This project is licensed under the [MIT](https://github.com/Abod1960/One-Commander-Paper-Theme/blob/main/LICENSE) license.
 
 
