@@ -61,6 +61,8 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 
 ➰ If you are using Ueli here is a theme for Ueli: [Paper-Ueli](https://github.com/Abod1960/Paper-Ueli).
 
+▶ And I made a Paper theme for YouTube, here it is: [Paper-YT-Theme](https://github.com/Abod1960/Paper-YT-Theme).
+
 ## ✏ Author
 
 🕴 **Abod1960**
