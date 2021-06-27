@@ -44,6 +44,21 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 
 - paste in **OneCommander"folder"\Resources\MainFolderIcon**
 
+## 👍 Recommended extensions and styles
+
+
+🍀 If you want to make your discord app has a Pper look, here is a theme i made: [Translucence Paper Theme](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Paper).
+
+⚜ And if you want to get an Paper cursor, here you can get it: [Paper-Cursor](https://www.deviantart.com/abod1960/art/Paper-Cursor-883799195).
+
+🚥 And here is a Dock icons with that paper look: [Paper-Dock-Icons](https://www.deviantart.com/abod1960/art/Paper-Dock-Icons-883822787).
+
+🎴 And here is 45 wallpaper to complete your Paper setup: [PaperPack-Minimalist-Wallpapers](https://www.deviantart.com/abod1960/art/PaperPack-Minimalist-Wallpapers-883815203).
+
+🎨 And don't forget Google Chrome, here is a theme for chrome: [Paper-Chrome](https://github.com/Abod1960/Paper-Chrome).
+
+➰ If you are using Ueli here is a theme for Ueli: [Paper-Ueli](https://github.com/Abod1960/Paper-Ueli).
+
 ## ✏ Author
 
 🕴 **Abod1960**
@@ -53,6 +68,7 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 * 🎨 ArtStation: [Abod1960](https://www.artstation.com/abod1960)
 *  ✉ Gmail: abod1960.work@gmail.com
 *   🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
+*   💬 Discord: [Abod1960#5514](https://discord.com/users/750369816279253083)<br>
 
 
 ## 🌟 Show your support
