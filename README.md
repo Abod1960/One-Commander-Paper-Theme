@@ -49,7 +49,7 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 ## 👍 Recommended extensions and styles
 
 
-🍀 If you want to make your discord app has a Pper look, here is a theme i made: [Translucence Paper Theme](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Paper).
+🍀 If you want to make your discord app has a Paper look, here is a theme i made: [Translucence Paper Theme](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Paper).
 
 ⚜ And if you want to get an Paper cursor, here you can get it: [Paper-Cursor](https://www.deviantart.com/abod1960/art/Paper-Cursor-883799195).
 
